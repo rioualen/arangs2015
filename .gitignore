@@ -2,15 +2,12 @@
 *bwa*
 .Rhistory
 .vagrant
+*bam*
 packer_cache
 *sai*
+*fast*
 *fasta*
 *fastq*
-<<<<<<< HEAD
-*sam*
-*tar*
-
-=======
-.*sam*
+*.sam*
 *samtools*
->>>>>>> d28dd1d9953632b6cd6a076bfa2d0740ed1c47b8
+*.tar
